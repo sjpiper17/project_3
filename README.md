@@ -14,3 +14,5 @@
 
 #This code was made by Scott Piper (sjpiper@stanford.edu) as part of the Software Engineering for Scientists course at Stanford University in
 #Winter Quarter of 2022.
+
+#The file tests.py contains a unit test to ensure that the count of total variants across all quarters from the map reduce matches the number of entries in the original file.
