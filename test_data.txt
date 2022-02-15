@@ -1,0 +1,20 @@
+Virus name	Type	Accession ID	Collection date	Location	Sequence Length	Host	Patient age	Gender	Variant
+COVID-19	betacoronavirus	65456	2019-04-20	Chicago	66545	human	25	M	Delta
+COVID-19	betacoronavirus	6515	2019-06-15	Chicago	6215	human	25	F	Omicron
+COVID-19	betacoronavirus	3153	2019-10-03	Chicago	1561	human	63	M	Delta
+COVID-19	betacoronavirus	35156	2019-01-11	Chicago	51	human	54	M	Delta
+COVID-19	betacoronavirus	65156	2020-06-15	Chicago	651	human	12	M	Delta
+COVID-19	betacoronavirus	651123	2020-02-04	Chicago	1	human	58	F	Omicorn
+COVID-19	betacoronavirus	3212356	2020-11-01	Chicago	651	human	74	F	Omicron
+COVID-19	betacoronavirus	6156	2020-08-09	Chicago	561	human	20	F	Omicron
+COVID-19	betacoronavirus	32	2020-07-24	Chicago	65	human	1	M	Delta
+COVID-19	betacoronavirus	165	2020-03-19	Chicago	135	human	6	F	Delta
+COVID-19	betacoronavirus	15	2019-07-17	Chicago	15	human	98	F	Omicron
+COVID-19	betacoronavirus	321	2019-09-14	Chicago	6	human	6	F	Delta
+COVID-19	betacoronavirus	321	2020-04-13	Chicago	13	human	65	M	Delta
+COVID-19	betacoronavirus	6515132	2020-04-21	Chicago	1	human	32	M	Omicron
+COVID-19	betacoronavirus	5655	2019-12-12	Chicago	56156	human	41	M	Omicron
+COVID-19	betacoronavirus	3210	2020-01-01	Chicago	1	human	82	F	Omicron
+COVID-19	betacoronavirus	321	2019-05-05	Chicago	5665	human	15	F	Delta
+COVID-19	betacoronavirus	23355	2020-10-10	Chicago	156	human	45	F	Delta
+COVID-19	betacoronavirus	1523	2019-08-08	Chicago	1	human	36	M	Omicron
