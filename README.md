@@ -16,3 +16,5 @@
 #Winter Quarter of 2022.
 
 #The file tests.py contains a unit test to ensure that the count of total variants across all quarters from the map reduce matches the number of entries in the original file.
+
+#The file name 'test_data.txt' must be changed in the file part_3a.py and tests.py in order to run correctly. The file ray_test.py contains a sample map reduce problem using ray unrelated to the rest of the assignment.
